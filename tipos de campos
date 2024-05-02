@@ -1,0 +1,19 @@
+Tipos de Campos:
+Caracteres:
+	- varchar(255)
+	- char(255) - unicode
+	- text
+Inteiro:
+	- int
+	- bit 0 ou 1
+Reais:
+	- decimal(9,2)
+	- float(9,2) 32bits
+	- double(9,2) 64bits
+Data e Hora:
+	- date - 'aaaa/mm/dd'
+	- time - 'hh:mm:ss'
+	- datetime - 'aaaa/mm/dd hh:mm:ss'
+Booleano:
+	- bool - true or false
+	
